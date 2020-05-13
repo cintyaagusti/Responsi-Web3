@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Responsi-Web3/static/css/main.2236a508.chunk.css",
+    "main.js": "/Responsi-Web3/static/js/main.53c4d46d.chunk.js",
+    "main.js.map": "/Responsi-Web3/static/js/main.53c4d46d.chunk.js.map",
+    "runtime-main.js": "/Responsi-Web3/static/js/runtime-main.4a4a45fe.js",
+    "runtime-main.js.map": "/Responsi-Web3/static/js/runtime-main.4a4a45fe.js.map",
+    "static/css/2.2fbe55bd.chunk.css": "/Responsi-Web3/static/css/2.2fbe55bd.chunk.css",
+    "static/js/2.8aa60295.chunk.js": "/Responsi-Web3/static/js/2.8aa60295.chunk.js",
+    "static/js/2.8aa60295.chunk.js.map": "/Responsi-Web3/static/js/2.8aa60295.chunk.js.map",
+    "index.html": "/Responsi-Web3/index.html",
+    "precache-manifest.c29205c22951baa6f27740054568ee47.js": "/Responsi-Web3/precache-manifest.c29205c22951baa6f27740054568ee47.js",
+    "service-worker.js": "/Responsi-Web3/service-worker.js",
+    "static/css/2.2fbe55bd.chunk.css.map": "/Responsi-Web3/static/css/2.2fbe55bd.chunk.css.map",
+    "static/css/main.2236a508.chunk.css.map": "/Responsi-Web3/static/css/main.2236a508.chunk.css.map",
+    "static/js/2.8aa60295.chunk.js.LICENSE.txt": "/Responsi-Web3/static/js/2.8aa60295.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a4a45fe.js",
+    "static/css/2.2fbe55bd.chunk.css",
+    "static/js/2.8aa60295.chunk.js",
+    "static/css/main.2236a508.chunk.css",
+    "static/js/main.53c4d46d.chunk.js"
+  ]
+}
