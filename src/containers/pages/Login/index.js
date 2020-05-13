@@ -30,7 +30,7 @@ class Login extends Component {
                 email: '',
                 password: ''
             })
-            history.push('/')
+            history.push('/dashboard')
         } else {
             console.log('login failed')
         }
