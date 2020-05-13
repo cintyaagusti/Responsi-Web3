@@ -96,7 +96,11 @@ class Dashboard extends Component {
         return(
           <Layout>
             <Header className="header">
-              
+                <div className="nama-app">
+                  <p>
+                    mini ma list
+                  </p>
+                </div>
             </Header>
 
             <Layout>
